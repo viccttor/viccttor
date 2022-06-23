@@ -15,7 +15,7 @@
   <img align="center" alt="Viccttor-PostgreSql" height="35" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Viccttor-AWS" height="35" width="80" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   
-  ##
+  
   
   ## Contato
  
