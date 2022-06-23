@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/viccttor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viccttor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viccttor&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=viccttor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viccttor&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
@@ -16,7 +16,7 @@
   <img align="center" alt="Viccttor-AWS" height="35" width="80" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   
   
-  
+ 
   ## Contato
  
 <div> 
