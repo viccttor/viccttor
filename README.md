@@ -1,7 +1,7 @@
 
 ## Olá, eu sou a Victor Henrique
 
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/viccttor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viccttor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viccttor&layout=compact&langs_count=16&theme=dark"/>
@@ -17,7 +17,7 @@
   
   
  
-  ## Contato
+  ## 
  
 <div> 
  <a href="https://discord.com/channels/Victor%20Henrique#2939" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
