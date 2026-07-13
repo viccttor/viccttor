@@ -2,8 +2,8 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
-  workflow_dispatch:       # permite rodar manualmente pelo botão
+    - cron: "0 0 * * *"   # todo dia à meia-noite UTC
+  workflow_dispatch:       # botão "Run workflow" na aba Actions
   push:
     branches:
       - main
@@ -23,7 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
 
-          # painel de linguagens mais usadas
+          # linguagens mais usadas
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
@@ -31,11 +31,9 @@ jobs:
           # hábitos de programação
           plugin_habits: yes
           plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
 
           # contribuições notáveis
           plugin_notable: yes
-
-          # conquistas
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
